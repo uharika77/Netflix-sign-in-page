@@ -40,5 +40,4 @@ Feel free to customize the project to match your preferences or use it as a temp
 
 This project is licensed under the MIT License.
 
-##DEMO
-[live demo]()
+
