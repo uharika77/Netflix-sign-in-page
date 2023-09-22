@@ -32,12 +32,6 @@ This project recreates the Netflix Sign-In Page, providing users with a familiar
  
 5. Explore footer links for additional information and settings.
 
-## Customization
 
-Feel free to customize the project to match your preferences or use it as a template for other sign-in pages.
-
-## License
-
-This project is licensed under the MIT License.
 
 
