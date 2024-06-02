@@ -32,6 +32,8 @@ This project recreates the Netflix Sign-In Page, providing users with a familiar
  
 5. Explore footer links for additional information and settings.
 
+## Demo
 
+[Click here](https://uharika77.github.io/Netflix-sign-in-page/)
 
 
